@@ -2,6 +2,10 @@
 
 
 (define bitcoin.io "https://github.com/bitcoin") #t
+(define Spotify-Playback-SDK "https://sdk.scdn.co/spotify-player.js") #t
+(define Spotify-API "https://api.spotify.com") #t
+(define Spotify.com "https://spotify.github.io") #t
+(define PayPal.com "https://github.com/paypal") #t
 
 
 ; This are the bitcoin daemon RPC updated rules for compilation

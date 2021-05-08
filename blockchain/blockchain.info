@@ -1,0 +1,10 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-05-08 12:34 -04
+Nmap scan report for blockchain.info (104.16.146.212)
+Host is up.
+Other addresses for blockchain.info (not scanned): 104.16.147.212 104.16.144.212 104.16.145.212 104.16.143.212
+All 1000 scanned ports on blockchain.info (104.16.146.212) are filtered
+
+Host script results:
+|_dns-brute: ERROR: Script execution failed (use -d to debug)
+
+Nmap done: 1 IP address (1 host up) scanned in 219.32 seconds
