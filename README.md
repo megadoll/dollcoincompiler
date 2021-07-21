@@ -1,3 +1,23 @@
+ok, read this "bad ass rapper"
+
+if you were trying to become a PRO GAMER, you wouldn't be caught cheating with MIDI PACKS and cheats like that.
+
+Or at least you wouldn't put so much effort into showing virtues you have to be extremely blessed to obtain and use them for music, i am the mathematician, the wizard, the fortune teller of sound, i do the math and then it sounds perfect and beast. you should never defend yourself with MIDI PACKS, because the effect it has on professional GAMERS is they realize they want to drop that game and completely avoid it, due to the fact that all those plugins at output.com are used by CHEATERS who buy the most cheapest CHEATER PACKED PRODUCT OF ALL MEDIOCRES on the real FELLOW GAMERS OF HALO AND DOOM, the favorite is never gonna be a cheater who don't know nothing about music but loads tons of cheats
+
+Grow, you have to grow to understand why your music knowledge has no answer to why your sound doesn't works and fails in  a monthly basis
+
+MIDI PACKS translates STEROIDS ABUSE by script kiddies
+
+Bitcoin theory explained with scheme and ruby
+
+MIDI PACKS ARE NOT ALLOWED IT GOES AGAINST ALL VIDEOGAME COMPANIES PRO GAMERS
+
+MOVISTARGamersStage
+MovistarArena
+
+😉
+
+
 # dollcoincompiler
 Bitcoin theory explained with scheme and ruby
 
